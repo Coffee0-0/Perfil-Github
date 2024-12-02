@@ -6,9 +6,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/Coffeesad2Sad?t=_npGE4fPTX2AyHaLYkyI0Q&s=09)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caua.eric_/profilecard/?igsh=MXNxYndsdHU1M2NkcA==)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)]
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)]
+[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
 
 
 ### 📫 Quer me conhecer?
@@ -16,35 +14,24 @@
 Escolha um horário se quiser me conhecer e conversar sobre qualquer assunto que lhe interesse e que vocÊ acha que daria um bom papo, juro que sou muito bom na arte da conversa e mesmo que vocÊ não tenha assunto vou te dar um agr ta ( curto muito café é sou muito fã de pokemon) - mas certifique-se de ser respeitoso
 
 
-👇 Clique no seu console ou terminal para se conectar comigo
-
-```bash
-Caua eric
-```
-**👆 Esta ferramenta de linha de comando pode ser encontrada em [npx anmol](https://github.com/anmol098/npx_card)**
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Uma breve palinha sobre min..
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>  Adoro me conectar com pessoas diferentes , então se você quiser dizer oi, ficarei feliz em conhecê-lo mais vezes!</b> 😊</em>
+ <em><b>☕</b>  Adoro me conectar com pessoas diferentes , então se você quiser dizer oi, ficarei feliz em conhecê-lo mais vezes!</b> 😊</em>
 
 ---
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C396%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-979-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
 --🐱 My GitHub Data-- 
 
-> 📦 
- > 
-> 🚫
- > 
-> 📜 
- > 
-> 🔑
+<div align="center">
+  <a href="https://github.com/Coffee0-0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThyagoPorto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoPorto&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
  > 
 
 
