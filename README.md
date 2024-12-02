@@ -1,4 +1,4 @@
-<h2><img https://images.emojiterra.com/google/android-10/512px/2615.png" /> Sou Cauã eric <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img https://images.emojiterra.com/google/android-10/512px/2615.png" /> ☕ Sou Cauã eric <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Estudo programação
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -6,10 +6,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/Coffeesad2Sad?t=_npGE4fPTX2AyHaLYkyI0Q&s=09)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caua.eric_/profilecard/?igsh=MXNxYndsdHU1M2NkcA==)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)]
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)]
+
 
 ### 📫 Quer me conhecer?
 
@@ -23,7 +23,7 @@ Caua eric
 ```
 **👆 Esta ferramenta de linha de comando pode ser encontrada em [npx anmol](https://github.com/anmol098/npx_card)**
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Uma breve palinha sobre min..
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>  Adoro me conectar com pessoas diferentes , então se você quiser dizer oi, ficarei feliz em conhecê-lo mais vezes!</b> 😊</em>
@@ -36,15 +36,15 @@ Caua eric
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+--🐱 My GitHub Data-- 
 
-> 📦 251.1 kB Used in GitHub's Storage 
+> 📦 
  > 
-> 🚫 Not Opted to Hire
+> 🚫
  > 
-> 📜 22 Public Repositories 
+> 📜 
  > 
-> 🔑 29 Private Repositories 
+> 🔑
  > 
 
 
